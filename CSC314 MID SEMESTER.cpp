@@ -1,3 +1,4 @@
+// solution to question 2
 #include <string>
 #include <algorithm>
 #include <iostream>

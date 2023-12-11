@@ -1,4 +1,5 @@
- #include <iostream>
+//solution to question 3
+#include <iostream>
 #include <stack>
 using namespace std;
 
